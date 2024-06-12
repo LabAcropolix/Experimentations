@@ -8,7 +8,7 @@
 <br/>
 
 Tous les codes sources se trouvent dans le dossier **_src_**. 
-Pour comprendre leur fonctionnement, je vous invite à lire la [documentation du Lab Acropolix]()
+Pour comprendre leur fonctionnement, je vous invite à lire la [documentation du Lab Acropolix]().<br />
 Libre à vous de les adapter à vos propres besoins.
 
 <br />
@@ -17,14 +17,16 @@ Libre à vous de les adapter à vos propres besoins.
 
 Pour pouvoir compiler les différents programmes présents dans ce dépôt, il vous faudra installer les paquets suivants :
 - _Git_ : pour pouvoir récupérer tous les codes sources
-- une chaîne de cross-compilation pour Raspberry Pi (j'utilise celle fournie par Buildroot car mon petit RPi tournera sur un kernel Linux personnalisé, mais il en existe d'autres, vous trouverez de nombreuses ressources sur le sujet sur le Net)
-- _libgpiod-dev_ (sur _Debian_, à adapter en fonction de votre distribution _GNU/Linux_) : c'est la bibliothèque qui nous permettra de "jouer" avec les GPIO du Raspberry Pi
+- une chaîne de cross-compilation pour _Raspberry Pi_ (j'utilise celle fournie par _Buildroot_ car mon petit RPi tournera sur un kernel Linux personnalisé, mais il en existe d'autres, vous trouverez de nombreuses ressources sur le sujet sur le Net)
+- _libgpiod-dev_ (sur _Debian_, à adapter en fonction de votre distribution _GNU/Linux_) : c'est la bibliothèque qui nous permettra de "jouer" avec les GPIO du _Raspberry Pi_
 
->>>
-A titre d'information, j'utilisela distribution Debian (en version CLI, ie sans interface graphique), en machine virtuelle sur un Macbook Pro 16" (de 2021), équipé d'un processeur M1 Pro et de 32 Go de RAM. Un dossier partagé entre le Macbook Pro et la machine virtuelle Debian a été créé afin de pouvoir stocker les codes sources sur la machine hôte et éviter ainsi d'avoir une machine virtuelle trop volumineuse.
-Les codes sources sont écrits à l'aide de VS Code sur le Mac, et pour les compiler, j'accède à la machine virtuelle en SSH.
->>>
+---
+#### ℹ️ _**Remarque**_
 
+A titre d'information, j'utilise la distribution _Debian_ (en version _CLI_, ie sans interface graphique), en machine virtuelle sur un _Macbook Pro 16"_ (de 2021), équipé d'un processeur _M1 Pro_ et de 32 Go de RAM. Un dossier partagé entre le _Macbook Pro_ et la machine virtuelle a été créé afin de pouvoir stocker les codes sources sur la machine hôte et éviter ainsi d'avoir une machine virtuelle trop volumineuse.
+Les codes sources sont écrits à l'aide de _VS Code_ sur le _Mac_, et pour les compiler, j'accède à la machine virtuelle en SSH.
+
+---
 <br />
 
 # Installation
