@@ -1,5 +1,10 @@
 <h1 align=center>Les expérimentations du Lab</h1>
 
+<p align="center">
+<a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html" alt="GPL v2.0"><img src="https://img.shields.io/badge/License-GPL_v2-blue.svg" /></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/Language-C-blue" /></a>
+</p>
+
 <br />
 
 >L'ensemble des expérimentations du Lab Acropolix dans le domaine de la Robotique Mobile.
