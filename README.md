@@ -8,7 +8,7 @@
 
 # Prérequis
 
-Je vous invite à lire la section [***Pour commencer*** du Lab]() afin d'avoir toutes les informations utiles pour installer tous les outils que j'utiliserai pour mes expérimentations. 
+Je vous invite à lire la section [***Pour commencer*** du Lab](https://lab.acropolix.fr/pour-commencer) afin d'avoir toutes les informations utiles pour installer tous les outils que j'utiliserai pour mes expérimentations. 
 
 <br />
 
@@ -24,12 +24,18 @@ Puis, rendez vous dans le dossier nouvellement créé :
 ```shell
 cd Experimentations
 ```
----
-#### ⚠️ Remarque
 
-Tous les codes sources se trouveront dans le dossier ***src***. 
-Pour comprendre leur fonctionnement, je vous invite à lire la [documentation du Lab Acropolix]() correspondante.<br />
-Libre à vous de les adapter à vos propres besoins.
+Puis rendez-vous dans le dossier ***src*** pour accéder à l'ensemble des codes sources du Lab :
 
----
+```shell
+cd src
+```
+
+<br />
+
+## Compilation des codes
+
+Il est possible de compiler un des programmes en particulier ou bien l'ensemble en une seule fois.
+
+
 
