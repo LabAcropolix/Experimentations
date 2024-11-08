@@ -42,4 +42,4 @@ Puis, rendez vous dans le dossier nouvellement créé :
 cd Experimentations
 ```
 
-A compléter
+A suivre
