@@ -30,9 +30,6 @@ Puis, rendez vous dans le dossier nouvellement créé :
 cd Experimentations
 ```
 
-<<<<<<< HEAD
-A suivre
-=======
 Puis rendez-vous dans le dossier ***src*** pour accéder à l'ensemble des codes sources du Lab :
 
 ```shell
@@ -47,4 +44,3 @@ Il est possible de compiler un des programmes en particulier ou bien l'ensemble 
 
 
 
->>>>>>> 9983376e5cf70ef0541196649cbf1abf9e1511ff
